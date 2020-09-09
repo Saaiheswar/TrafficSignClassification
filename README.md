@@ -1,7 +1,8 @@
 # TrafficSignClassification
 
-In this case study, we want to classify images of traffic signs using deep Convolutional Neural Networks (CNNs).\n
-The dataset consists of 43 different classes of images.\n
+In this case study, we want to classify images of traffic signs using deep Convolutional Neural Networks (CNNs).
+
+The dataset consists of 43 different classes of images.
 Classes are as listed below:
 0 = Speed limit (20km/h)
 1 = Speed limit (30km/h)
