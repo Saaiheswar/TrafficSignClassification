@@ -1,6 +1,6 @@
 # TrafficSignClassification
 
-In this case study, we want to classify images of traffic signs using deep Convolutional Neural Networks (CNNs).
+In this case study, we want to classify images of traffic signs based on GTSRB(German Traffic Sign Recognition Benchmark) using deep Convolutional Neural Networks (CNNs).
 
 The dataset consists of 43 different classes of images.<br>
 Classes are as listed below:<br>
